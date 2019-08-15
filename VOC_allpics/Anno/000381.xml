@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPE</folder>
+	<filename>000381.jpg</filename>
+	<path>/home/dingchao/Anaconda/SSD-0826/fullssd-keras/ssd_keras/VOC_allpics/JPE/000381.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>93</ymin>
+			<xmax>154</xmax>
+			<ymax>187</ymax>
+		</bndbox>
+	</object>
+</annotation>

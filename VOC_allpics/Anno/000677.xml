@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPE</folder>
+	<filename>000677.jpg</filename>
+	<path>/home/dingchao/Anaconda/SSD-0826/fullssd-keras/ssd_keras/VOC_allpics/JPE/000677.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>181</ymin>
+			<xmax>113</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
